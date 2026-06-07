@@ -7,7 +7,7 @@ const SITE_LANG = "zh_CN";
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "鲸鱼做飞艇",
+	title: "Mr.Yan",
 
 	// 站点副标题
 	subtitle: "jyzft",
@@ -75,11 +75,11 @@ export const siteConfig: SiteConfig = {
 		// 4. 网络图片: { type: "url", value: "https://example.com/logo.png", alt: "Logo" }
 		logo: {
 			type: "image",
-			value: "assets/images/firefly.png",
+			value: "/LadyGaga.jpg",
 			alt: "🍀",
 		},
 		// 导航栏标题
-		title: "鲸鱼做飞艇",
+		title: "Mr.Yan",
 		// 全宽导航栏，导航栏是否占满屏幕宽度
 		widthFull: false,
 		// 导航菜单对齐方式，left：左对齐，center：居中
