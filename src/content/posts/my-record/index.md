@@ -1,7 +1,7 @@
 ---
-title: "2026-06-11 博客&AI知识库搭建记录"
-date: 2026-06-11
-published: 2026-06-11
+title: "2026-06-12 博客&AI知识库搭建记录"
+date: 2026-06-12
+published: 2026-06-12
 description: "我的学习记录"
 categories: ["博客指南"]
 tags: ["记录", "博客搭建"]
