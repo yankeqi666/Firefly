@@ -59,7 +59,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			"assets/images/MobileWallpaper/ga.jpg",
 		],
 	},
-	// 横幅壁纸和全屏壁纸共享配置
+	// 横幅壁纸和全屏壁纸共享配置 
 	common: {
 		// 横幅文字遮罩暗度，0-1之间，值越大越暗
 		dimOpacity: 0.2,

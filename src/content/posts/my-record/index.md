@@ -22,10 +22,10 @@ author: "Yan"
 ![步骤3：安装依赖与启动服务](/image/3.png)
 *图3：运行npm install安装依赖，npm run dev启动本地服务*
 
-![步骤4：Firefly主题配置](/image/4.png)
+![步骤4：Firefly主题配置](/image/5.png)
 *图4：修改Firefly主题配置文件，调整基础设置*
 
-![步骤5：添加Giscus评论系统](/image/5.png)
+![步骤5：添加Giscus评论系统](/image/4.png)
 *图5：配置Giscus评论，实现博客评论功能*
 
 ![步骤6：页面样式微调](/image/6.png)
