@@ -21,7 +21,7 @@ draft: false
 
 最重要的是：电脑和手机都能打开同一个网址。
 
-![记账系统首页截图](/image/20.png)
+![记账系统首页截图](/image/jizhang-20.webp)
 
 ## 最后使用的网址
 
@@ -61,7 +61,7 @@ https://yan-jizhang-sync.495662876.workers.dev
 上传失败：Load failed
 ```
 
-![手机上传失败截图](/image/21.png)
+![手机上传失败截图](/image/jizhang-21.webp)
 
 最后改成了更简单的办法：  
 网页和同步都用同一个地址。
@@ -92,7 +92,7 @@ https://jizhang-demo.pages.dev
 保存同步设置
 ```
 
-![云同步设置截图](/image/22.png)
+![云同步设置截图](/image/jizhang-22.webp)
 
 ## 电脑和手机的同步节点
 
@@ -112,7 +112,7 @@ https://jizhang-demo.pages.dev
 
 我准备在这里放一张图，展示电脑端和手机端同步的位置：
 
-![电脑端和手机端同步节点](/image/23.png)
+![电脑端和手机端同步节点](/image/jizhang-23.webp)
 
 ## 如果电脑上有账单
 
@@ -168,13 +168,13 @@ https://jizhang-demo.pages.dev
 
 我准备在这里放四张图，分别展示不同功能：
 
-![记账页面：填写金额、分类、账户和备注](/image/24.png)
+![记账页面：填写金额、分类、账户和备注](/image/jizhang-24.webp)
 
-![账单页面：查看每一笔收入和支出](/image/25.png)
+![账单页面：查看每一笔收入和支出](/image/jizhang-25.webp)
 
-![统计页面：看消费类型和趋势图](/image/26.png)
+![统计页面：看消费类型和趋势图](/image/jizhang-26.webp)
 
-![设置页面：管理分类、账户和同步](/image/27.png)
+![设置页面：管理分类、账户和同步](/image/jizhang-27.webp)
 
 ## 多个人使用会不会混在一起
 
